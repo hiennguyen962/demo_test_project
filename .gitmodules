@@ -1,0 +1,3 @@
+[submodule "demo_sub_module"]
+	path = demo_sub_module
+	url = https://github.com/hiennguyen962/demo_sub_module.git
