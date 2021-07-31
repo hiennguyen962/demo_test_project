@@ -1,8 +1,8 @@
-# Submodule guide
+# :wave: Submodule guide
 
 ## Adding an existing Git repository as a submodule of the repository that we’re working on
 
-Add submodule
+:tipping_hand_woman:
 
 > git submodule add [submodule-repo-url]
 
