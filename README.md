@@ -4,21 +4,21 @@
 
 Add submodule
 
-$ git submodule add [submodule-repo-url]
+> git submodule add [submodule-repo-url]
 
-$ git commit -am 'Add submodule module'
+> git commit -am 'Add submodule module'
 
-$ git push origin master
+> git push origin master
 
 ## Cloning a repository including its submodules
-$ git clone --recursive [repo-url]
+> git clone --recursive [repo-url]
 
 
 ## Pull all changes of branch master for the submodules
-$ git submodule update --remote
+> git submodule update --remote
 
 
 ## Set a specific submodule track branch   
 
-$ git config -f .gitmodules submodule.DbConnector.branch [branch name]
+> git config -f .gitmodules submodule.DbConnector.branch [branch name]
 
