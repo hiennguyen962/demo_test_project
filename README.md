@@ -20,5 +20,5 @@ Add submodule
 
 ## Set a specific submodule track branch   
 
-> git config -f .gitmodules submodule.DbConnector.branch [branch name]
+> git config -f .gitmodules submodule.[submodule name].branch [branch name]
 

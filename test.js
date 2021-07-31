@@ -1,2 +1,2 @@
-var demo = require('@hiennguyen202/my-module')
+var demo = require('/demo_sub_module/test.js')
 demo.printMsg()
