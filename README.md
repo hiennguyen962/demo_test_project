@@ -6,7 +6,7 @@ Add submodule
 
 > git submodule add [submodule-repo-url]
 
-> git commit -am 'Add submodule module'
+> git commit -m 'Add submodule module'
 
 > git push origin master
 
